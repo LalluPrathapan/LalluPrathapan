@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LalluPrathapan
-- 👀 I’m interested to learning everythin I can
+- 👀 I’m interested in Remote Sensing
 - 🌱 I’m currently learning R, Phython, Qgis
 
 
