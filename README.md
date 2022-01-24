@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LalluPrathapan
 - 👀 I’m interested in Remote Sensing
-- 🌱 I’m currently learning R, Phython, Qgis
+- 🌱 I’m currently learning R, Python, Qgis
 
 
 <!---
